@@ -2,6 +2,7 @@
 
 ---
 From project directory:
+- Run `composer install`
 - Execute script: `php src/app.php input.txt`
 - Run tests: `./vendor/bin/phpunit `
 - Run php-stan code analyse: `vendor/bin/phpstan analyse -c phpstan.neon.dist`
